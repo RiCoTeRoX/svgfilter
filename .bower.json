@@ -1,0 +1,19 @@
+{
+  "name": "svgfilter",
+  "version": "0.1",
+  "description": "Filtros svg cross-browser",
+  "keywords": [
+    "svgfilter"
+  ],
+  "main": "jquery.svgfilter.js",
+  "license": "GPLv3",
+  "homepage": "https://github.com/SRCres/svgfilter",
+  "_release": "0.1",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.1"
+  },
+  "_source": "git://github.com/SRCres/svgfilter.git",
+  "_target": "~0.1",
+  "_originalSource": "srcres"
+}
