@@ -1,0 +1,10 @@
+{
+  "name": "svgfilter",
+  "version": "0.1",
+  "description": "Filtros svg cross-browser",
+  "keywords": [
+    "svgfilter"
+  ],
+  "main": "jquery.svgfilter.js",
+  "license": "GPLv3"
+}
