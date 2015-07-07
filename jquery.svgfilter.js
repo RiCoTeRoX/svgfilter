@@ -95,8 +95,8 @@
     setStyles: function(styles, url, width, height) {
       styles.display = 'inline-block';
       styles.overflow = styles['overflow-x'] = styles['overflow-y'] = 'hidden';
-      styles['background-size'] = width + 'px ' + height + 'px';
       delete styles.filter;
+      delete styles['-webkit-filter'];
 
       return styles;
     },
